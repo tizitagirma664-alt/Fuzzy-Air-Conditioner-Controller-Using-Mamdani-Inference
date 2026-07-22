@@ -83,7 +83,7 @@ Start Jupyter from the project directory:
 jupyter lab
 ```
 
-Open `prism-uploads/Fuzzy_AC_Controller (1).ipynb`, then select **Run All Cells**. The notebook is organized to run from top to bottom.
+Open `Fuzzy_AC_Controller (1).ipynb`, then select **Run All Cells**. The notebook is organized to run from top to bottom.
 
 If the interactive sliders are unavailable, install or enable `ipywidgets` in the Jupyter environment and rerun the interactive-demo cell.
 
